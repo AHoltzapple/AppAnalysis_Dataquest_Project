@@ -12,7 +12,7 @@ Some of the methods and packages used include:
 
 ## Files
 
-The project contains 5 files:
+The project contains 4 files:
 + *README.md* (this file) - Description of project and repository
 + *googleplaystore.csv* - Google Play app data
 + *AppleStore.csv* - Apple App Store data
